@@ -5,7 +5,7 @@ Internship of Aik at the Rijksuniversiteit Groningen.
 ## Info
 
  * When:
-    * Monday March 16th to and including Friday March 20th (one week)
+    * ~~Monday March 16th to and including Friday March 20th (one week)~~ CANCELLED
     * Monday May 4th to and including Friday May 15th (two weeks week),
       exluding May 5th, due to Liberation Day
  * Building: [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
@@ -15,40 +15,9 @@ Internship of Aik at the Rijksuniversiteit Groningen.
 
 ![](lb.png)
 
-## Planning for first week
+## Planning
 
-## Monday March 16th 2019
-
-Time       |What                                    |Where
------------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
-
-## Tuesday March 17th 2019
-
-Time       |What                                    |Where
------------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
-
-## Wednesday March 18th 2019
-
-Time       |What                                    |Where
------------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
-
-## Thursday March 19th 2019
-
-Time       |What                                    |Where
------------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
-
-## Friday March 20th 2019
-
-Time       |What                                    |Where
------------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
- 
-
-## Planning for second and third week
+Apu is boss here :+1:.
 
 ## Monday May 4th 2019
 
